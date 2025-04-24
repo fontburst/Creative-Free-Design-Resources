@@ -1,171 +1,157 @@
-# Creative Free Design Resources
+# Creative Free Design Resources 🚀
 
-Table of Contents
-UI Graphics
-Fonts
-Colors
-Icons
-Logos
-Favicons
-Icon Fonts
-Stock Photos
-Stock Videos
-Stock Music & Sound Effects
-Vectors & Clip Art
-Product & Image Mockups
-HTML & CSS Templates
-CSS Frameworks
-CSS Methodologies
-CSS Animations
-Javascript Animation Libraries
-Javascript Chart Libraries
-UI Components & Kits
-React UI Libraries
-Vue UI Libraries
-Angular UI Libraries
-Svelte UI Libraries
-React Native UI Libraries
-Design Systems & Style Guides
-Online Design Tools
-Downloadable Design Software
-Design Inspiration
-Symbols
-Image Compression
-Chrome Extensions
-Firefox Extensions
-AI Graphic Design Tools
-Others
+Welcome to an extensive collection of **free design resources** to supercharge your creativity and productivity. Whether you're a designer, developer, or hobbyist, this repository is packed with tools, libraries, and inspiration for **UI/UX design, front-end development, and beyond**.
 
-## Fonts
+---
+
+## 🌟 Table of Contents
+1. [UI Graphics](#ui-graphics)
+2. [Fonts](#fonts)
+3. [Colors](#colors)
+4. [Icons](#icons)
+5. [Logos](#logos)
+6. [Favicons](#favicons)
+7. [Icon Fonts](#icon-fonts)
+8. [Stock Photos](#stock-photos)
+9. [Stock Videos](#stock-videos)
+10. [Stock Music & Sound Effects](#stock-music--sound-effects)
+11. [Vectors & Clip Art](#vectors--clip-art)
+12. [Product & Image Mockups](#product--image-mockups)
+13. [HTML & CSS Templates](#html--css-templates)
+14. [CSS Frameworks](#css-frameworks)
+15. [CSS Animations](#css-animations)
+16. [Javascript Animation Libraries](#javascript-animation-libraries)
+17. [Javascript Chart Libraries](#javascript-chart-libraries)
+18. [UI Components & Kits](#ui-components--kits)
+19. [React UI Libraries](#react-ui-libraries)
+20. [Vue UI Libraries](#vue-ui-libraries)
+21. [Angular UI Libraries](#angular-ui-libraries)
+22. [Svelte UI Libraries](#svelte-ui-libraries)
+23. [React Native UI Libraries](#react-native-ui-libraries)
+24. [Design Systems & Style Guides](#design-systems--style-guides)
+25. [Online Design Tools](#online-design-tools)
+26. [Downloadable Design Software](#downloadable-design-software)
+27. [Design Inspiration](#design-inspiration)
+28. [Symbols](#symbols)
+29. [Image Compression](#image-compression)
+30. [Chrome Extensions](#chrome-extensions)
+31. [Firefox Extensions](#firefox-extensions)
+32. [AI Graphic Design Tools](#ai-graphic-design-tools)
+33. [Others](#others)
+34. [Git Resources](#git-resources)
+
+---
+
+## 🔤 Fonts
 | Website | Description |
 |---|---|
-| [Google Fonts](https://fonts.google.com/) | Large library of free, open-source fonts. |
-| [Font Squirrel](https://www.fontsquirrel.com/) | Curated collection of high-quality free fonts for commercial use. |
-| [DaFont](https://www.dafont.com/) | Archive of freely downloadable fonts, categorized by theme. |
+| [Google Fonts](https://fonts.google.com/) | A vast library of free, open-source fonts. |
+| [Font Squirrel](https://www.fontsquirrel.com/) | High-quality free fonts for commercial use. |
+| [DaFont](https://www.dafont.com/) | Archive of downloadable fonts categorized by themes. |
 | [FontSpace](https://www.fontspace.com/) | Thousands of free fonts shared by designers. |
 | [Creative Market Fonts](https://creativemarket.com/fonts) | Premium and free fonts from independent creators. |
-| [Fontfabric](https://www.fontfabric.com/free-fonts/) | High-quality free fonts for various design projects. |
-| [creativetacos.com](https://creativetacos.com/) | Free design resources including fonts. |
-| [fontburst.com](https://fontburst.com/) | Collection of free fonts. |
+| [Fontfabric](https://www.fontfabric.com/free-fonts/) | High-quality fonts for a range of design projects. |
+| [Creative Tacos](https://creativetacos.com/) | Free design resources, including fonts. |
+| [FontBurst](https://fontburst.com/) | Curated collection of free fonts. 🎨 |
 
-↥ Back To Top
+[Back to Top](#table-of-contents)
 
-## Design Inspiration
+---
+
+## 🎨 Design Inspiration
 | Website | Description |
 |---|---|
-| [Behance](https://www.behance.net/) | Showcase and discover creative work. |
-| [Dribbble](https://dribbble.com/) | Community for designers to share work. |
-| [Pinterest](https://www.pinterest.com/) | Visual discovery engine for ideas like recipes, home and style inspiration, and more. |
-| [Awwwards](https://www.awwwards.com/) | Recognizes the talent and effort of the best web designers, developers, and agencies. |
-| [creativeultra.com](https://creativeultra.com/) | Source for design inspiration and resources. |
+| [Behance](https://www.behance.net/) | Discover and showcase creative work worldwide. |
+| [Dribbble](https://dribbble.com/) | A community for sharing design work and ideas. |
+| [Pinterest](https://www.pinterest.com/) | Discover visual inspiration across diverse topics. |
+| [Awwwards](https://www.awwwards.com/) | Celebrating the best in web design and development. |
+| [Creative Ultra](https://creativeultra.com/) | A hub for design inspiration and resources. |
 
-↥ Back To Top
+[Back to Top](#table-of-contents)
 
-## Graphics
+---
+
+## 📷 Graphics
 | Website | Description |
 |---|---|
-| [Unsplash](https://unsplash.com/) | High-resolution stock photos free for commercial use. |
+| [Unsplash](https://unsplash.com/) | Free high-resolution stock photos. |
 | [Pexels](https://www.pexels.com/) | Free stock photos and videos. |
-| [Pixabay](https://pixabay.com/) | Large collection of free images, videos, and music. |
-| [Freepik](https://www.freepik.com/) | Free vectors, stock photos, PSD, and icons. |
+| [Pixabay](https://pixabay.com/) | Free images, videos, and music. |
+| [Freepik](https://www.freepik.com/) | Vectors, stock photos, PSDs, and icons. |
 
-↥ Back To Top
+[Back to Top](#table-of-contents)
 
-## AI Tools
+---
+
+## 🤖 AI Graphic Design Tools
 | Website | Description |
 |---|---|
-| [Designs.ai](https://designs.ai/) | Comprehensive AI design suite for logos, videos, etc. |
-| [Adobe Sensei](https://www.adobe.com/sensei.html) | AI integrated into Adobe Creative Cloud to automate tasks. |
-| [Autodraw](https://www.autodraw.com/) | Google's AI tool that turns doodles into polished drawings. |
-| [Uizard](https://uizard.io/) | Transforms hand-drawn sketches into digital prototypes. |
+| [Designs.ai](https://designs.ai/) | AI-driven suite for logos, videos, and more. |
+| [Adobe Sensei](https://www.adobe.com/sensei.html) | AI automation in Adobe Creative Cloud. |
+| [AutoDraw](https://www.autodraw.com/) | Turn doodles into polished designs with AI. |
+| [Uizard](https://uizard.io/) | Convert sketches into digital prototypes. |
 | [Looka](https://looka.com/) | AI-powered logo maker for businesses. |
-| [FontJoy](https://fontjoy.com/) | AI tool for generating font pairings. |
+| [FontJoy](https://fontjoy.com/) | Generate font pairings with AI. |
 
-↥ Back To Top
+[Back to Top](#table-of-contents)
 
-## Chrome Extensions
+---
+
+## 🌐 Chrome Extensions for Designers
 | Website | Description |
 |---|---|
-| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | Identify fonts on web pages by hovering over them. |
-| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Advanced eyedropper, color picker, gradient generator. |
-| [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts, check styles, foundry, price, and test them. |
-| [SVG Grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) | Quickly preview and download SVG assets from a website. |
-| [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) | Browse and download images from a web page. |
-| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) | Resize browser window to emulate various screen resolutions. |
-| [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) | Measure elements on any web page. |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | Identify fonts on web pages effortlessly. |
+| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Advanced eyedropper and color picker. |
+| [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify and test fonts directly in your browser. |
+| [SVG Grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) | Download SVG assets from any website. |
+| [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) | Download images directly from web pages. |
+| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) | Emulate screen resolutions for testing. |
+| [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) | Measure elements on web pages. |
 
-↥ Back To Top
+[Back to Top](#table-of-contents)
 
-## Symbols
+---
+
+## 💡 Symbols and Special Characters
 | Website | Description |
 |---|---|
-| [Cool Symbol](https://coolsymbol.com/) | Collection of text symbols, emojis, and fancy text tools. |
-| [Copy Paste Character](https://copypastecharacter.com/) | Simple way to copy special characters and symbols. |
-| [thecoolsymbols.com](https://thecoolsymbols.com/) | Website offering various cool symbols. |
-| [coolsymbolshub.com](https://coolsymbolshub.com/) | Hub for cool symbols. |
+| [Cool Symbol](https://coolsymbol.com/) | Text symbols, emojis, and fancy text tools. |
+| [Copy Paste Character](https://copypastecharacter.com/) | Easily copy special characters and symbols. |
+| [The Cool Symbols](https://thecoolsymbols.com/) | Fun and stylish symbol collections. |
+| [Cool Symbols Hub](https://coolsymbolshub.com/) | A hub for unique and creative symbols. |
 
-↥ Back To Top
+[Back to Top](#table-of-contents)
 
-## Others
+---
+
+## 🛠️ Git Resources
+### 📘 Learning & Documentation
 | Website | Description |
 |---|---|
-| [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression. |
-| [Remove.bg](https://www.remove.bg/) | Remove image backgrounds automatically. |
-| [inches-to.net](https://inches-to.net/) | Online conversion tool. |
+| [Official Git Documentation](https://git-scm.com/doc) | Comprehensive Git documentation. |
+| [Pro Git Book](https://git-scm.com/book/en/v2) | Free book for Git beginners and experts. |
+| [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) | Beginner-friendly tutorials with visuals. |
+| [Git Immersion](https://gitimmersion.com/) | Hands-on Git learning experience. |
+| [Learn Git Branching](https://learngitbranching.js.org/) | Interactive visual tool for mastering Git. |
 
-↥ Back To Top
-
-Git Resources
-A curated list of the best Git resources, tools, and learning materials for all levels.
-
-### Learning & Documentation
+### 🖥️ GUI Clients
 | Website | Description |
 |---|---|
-| [Official Git Documentation](https://git-scm.com/doc) | The official and most comprehensive documentation for Git. |
-| [Pro Git Book](https://git-scm.com/book/en/v2) | Free online book covering everything from basics to advanced Git usage. |
-| [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) | Beginner-friendly tutorials and guides with visuals. |
-| [Git Immersion](https://gitimmersion.com/) | Hands-on walkthrough for learning Git step by step. |
-| [Learn Git Branching](https://learngitbranching.js.org/) | Interactive visual tool to master Git branching concepts. |
-| [Oh My Git!](https://ohmygit.org/) | Open-source game to learn Git commands and concepts. |
-| [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) | Printable PDF with the most common Git commands. |
+| [GitHub Desktop](https://desktop.github.com/) | Official Git client for Windows and Mac. |
+| [Sourcetree](https://www.sourcetreeapp.com/) | Git client with a user-friendly interface. |
+| [GitKraken](https://www.gitkraken.com/) | Cross-platform Git GUI with advanced features. |
 
-### GUI Clients
+### 🌐 Hosting Services
 | Website | Description |
 |---|---|
-| [GitHub Desktop](https://desktop.github.com/) | Official GitHub client for Windows and Mac. |
-| [Sourcetree](https://www.sourcetreeapp.com/) | Powerful Git GUI by Atlassian. |
-| [GitKraken](https://www.gitkraken.com/) | Cross-platform, visually rich Git client. |
-| [Fork](https://git-fork.com/) | Fast and friendly Git client for Mac and Windows. |
-| [Git Cola](https://git-cola.github.io/) | Sleek and powerful Git GUI for Linux, Mac, and Windows. |
-| [TortoiseGit](https://tortoisegit.org/) | Windows shell interface for Git. |
+| [GitHub](https://github.com/) | The largest platform for hosting and collaboration. |
+| [GitLab](https://gitlab.com/) | Open-source DevOps platform. |
+| [Bitbucket](https://bitbucket.org/) | Git for teams with Jira integration. |
 
-### Hosting Services
-| Website | Description |
-|---|---|
-| [GitHub](https://github.com/) | The largest code hosting platform with collaboration features. |
-| [GitLab](https://gitlab.com/) | Open-source DevOps platform with integrated CI/CD. |
-| [Bitbucket](https://bitbucket.org/) | Git solution for teams, integrates with Jira and Trello. |
-| [SourceForge](https://sourceforge.net/) | Long-standing open-source project hosting. |
-| [Codeberg](https://codeberg.org/) | Privacy-focused, open-source Git hosting. |
+[Back to Top](#table-of-contents)
 
-### Advanced Tools & Utilities
-| Website | Description |
-|---|---|
-| [GitHub Actions](https://github.com/features/actions) | Automate workflows directly in your GitHub repos. |
-| [Git Large File Storage (LFS)](https://git-lfs.github.com/) | Manage large files with Git. |
-| [Gitea](https://gitea.io/) | Lightweight, self-hosted Git service. |
-| [Gerrit](https://www.gerritcodereview.com/) | Web-based code review tool for Git. |
-| [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) | Remove large or sensitive data from Git history. |
-| [Git Explorer](https://gitexplorer.com/) | Find the right Git commands quickly. |
-| [tig](https://jonas.github.io/tig/) | Text-mode interface for Git repositories. |
+---
 
-### Tips, Tricks & Community
-| Website | Description |
-|---|---|
-| [GitHub Guides](https://guides.github.com/) | Official GitHub guides for workflows and best practices. |
-| [Oh Shit, Git!?!](https://ohshitgit.com/) | Solutions for common Git mistakes, explained simply. |
-| [GitHub Gist](https://gist.github.com/) | Share code snippets and notes with others. |
-| [Stack Overflow Git Tag](https://stackoverflow.com/questions/tagged/git) | Community Q&A for Git problems and solutions. |
-| [GitHub Trending](https://github.com/trending) | Discover trending repositories and projects. |
+This repository is constantly evolving. **Contributions are welcome!** Let’s collaborate to make this the ultimate resource for creators and developers alike.
 
-↥ Back To Top
+🎉 **Happy Designing!**
