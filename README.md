@@ -53,6 +53,7 @@ Welcome to an extensive collection of **free design resources** to supercharge y
 | [Fontfabric](https://www.fontfabric.com/free-fonts/) | High-quality fonts for a range of design projects. |
 | [Creative Tacos](https://creativetacos.com/) | Free design resources, including fonts. |
 | [FontBurst](https://fontburst.com/) | Curated collection of free fonts. 🎨 |
+| [Chalk Counter — Free Style](https://cursive-generation.com/fonts/chalk-counter) | One free Regular marker-lettering style with commercial use and embedding allowed under a custom no-resale license; paid styles are separate. |
 
 [Back to Top](#table-of-contents)
 
